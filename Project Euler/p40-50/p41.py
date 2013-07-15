@@ -1,3 +1,9 @@
+#We know that any 9 digit pandigital number is divisible by 9
+#since the sum of the digits is equal to 45.
+#Similarly and 8 digit pandigital number is divisible by 3
+#Thus the solution space is reduced to finding any 7 digit 
+#pandigital number. If there weren't any I would just go down to 6
+
 from copy import deepcopy
 
 
